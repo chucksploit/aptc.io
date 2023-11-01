@@ -7,6 +7,10 @@ theme = "nightfall"
     name = "blog"
     weight = 0
     url = "/posts"
+  [[menu.header]]
+    name = "tools"
+    weight = 5
+    url = "/tools"
 
 [params]
 author = "chucksploit"
