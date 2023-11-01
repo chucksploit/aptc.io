@@ -1,4 +1,4 @@
-baseURL = 'https://blog.boostsec.net/'
+baseURL = 'https://aptc.io'
 languageCode = 'en-us'
 theme = "nightfall"
 
@@ -15,7 +15,7 @@ theme = "nightfall"
 [params]
 author = "chucksploit"
 user = "chucksploit"
-hostname = "boostsec.net"
+hostname = "aptc.io"
 
 readingTime = true  # Show reading time on post page
 published = true  # Show published data on post page
