@@ -9,8 +9,8 @@ theme = "nightfall"
     url = "/posts"
 
 [params]
-author = "chucksploit"
-user = "chucksploit"
+author = "Chuck Gabriele"
+user = "chuck"
 hostname = "aptc.io"
 
 readingTime = true  # Show reading time on post page
