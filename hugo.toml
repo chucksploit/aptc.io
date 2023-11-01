@@ -6,16 +6,12 @@ theme = "nightfall"
   [[menu.header]]
     name = "blog"
     weight = 0
-    url = "blog"
-  [[menu.header]]
-    name = "about"
-    weight = 1
-    url = "about"
+    url = "/posts"
 
 [params]
-author = "Chuck"
-user = "Chuck"
-hostname = "blog.boostsec.net"
+author = "chucksploit"
+user = "chucksploit"
+hostname = "boostsec.net"
 
 readingTime = true  # Show reading time on post page
 published = true  # Show published data on post page
