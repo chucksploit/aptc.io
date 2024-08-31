@@ -1,4 +1,4 @@
-baseURL = 'https://blog.aptc.io'
+baseURL = 'https://aptc.io'
 languageCode = 'en-us'
 theme = "nightfall"
 
@@ -9,7 +9,7 @@ theme = "nightfall"
     url = "/posts"
 
 [params]
-author = "Chuck Gabriele"
+author = "Chuck"
 user = "chuck"
 hostname = "aptc.io"
 
