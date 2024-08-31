@@ -28,10 +28,5 @@ url = "https://www.twitter.com/chucksploit"
 
 [[params.social]]
 key = 2
-name = "linkedin"
-url = "https://www.linkedin.com/in/chucksploit"
-
-[[params.social]]
-key = 2
 name = "twitch"
 url = "https://www.twitch.tv/0xchuck"
