@@ -19,9 +19,9 @@ published = false  # Show published data on post page
 [[params.social]]
 key = 0
 name = "github"
-url = "https://github.com/chucksploit"
+url = "https://github.com/0xaptc"
 
 [[params.social]]
 key = 1
 name = "twitter"
-url = "https://www.twitter.com/chucksploit"
+url = "https://www.twitter.com/0xaptc"
